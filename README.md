@@ -1,5 +1,3 @@
-# Fundamentos-do-React-Native
-
 # :rocket: Challenge #8 React Native fundaments
 This repository its part of my web studies with Rocketseat bootcamp (GoStack)
 
